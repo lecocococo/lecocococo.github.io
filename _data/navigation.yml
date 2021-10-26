@@ -6,7 +6,8 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "프로젝트"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-
+  - title: "About"
+    url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
