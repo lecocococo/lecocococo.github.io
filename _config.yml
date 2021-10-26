@@ -16,7 +16,7 @@ minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon"
 
 # Site Settings
 locale: "ko-KR"
-title: "leco dev blog"
+title: "leco Dev Blog"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "LCM"
@@ -102,7 +102,7 @@ analytics:
 author:
   name: "LCM"
   avatar: "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "웹 개발하는 개발자"
+  bio: "계속 고민하는 개발자"
   location: "서울, 대한민국"
   email: "none"
   links:
