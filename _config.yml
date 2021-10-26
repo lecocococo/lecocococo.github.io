@@ -103,7 +103,7 @@ author:
   name: "LCM"
   avatar: "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "웹 개발하는 개발자"
-  location: "서울,대한민국"
+  location: "서울, 대한민국"
   email: "none"
   links:
     - label: "Email"
