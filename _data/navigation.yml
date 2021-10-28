@@ -20,19 +20,19 @@ main:
   #   url: /sitemap/
 
 main-sidebar:
-  - title: "Computing"
-    url: "/computing/"
+  - title: "Study"
+    url: "/study/"
     children:
-      - title: "Computer"
+      - title: "Python"
         url: "/categories/Python/"
-        children:
-          - title: "CPU"
-            url: "/computing/computer/cpu/"
-      - title: "Linux"
-        url: "/computing/linux/"
-        children:
-          - title: "Command"
-            url: "/computing/linux/commands/"
+        # children:
+        #   - title: "CPU"
+        #     url: "/computing/computer/cpu/"
+      - title: "Algorithm"
+        url: "/categories/LeetCode/"
+        # children:
+        #   - title: "Command"
+        #     url: "/computing/linux/commands/"
       - title: "Programming"
         url: "/computing/programming/"
         children:
