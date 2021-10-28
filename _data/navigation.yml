@@ -28,7 +28,7 @@ main-sidebar:
         # children:
         #   - title: "CPU"
         #     url: "/computing/computer/cpu/"
-      - title: "Algorithm"
+      - title: "LeetCode"
         url: "/categories/LeetCode/"
         # children:
         #   - title: "Command"

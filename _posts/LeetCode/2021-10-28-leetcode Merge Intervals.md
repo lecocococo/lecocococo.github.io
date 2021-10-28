@@ -13,16 +13,16 @@ sidebar:
 
 <br/>
 
-# Merge Intervals
+# <span style="color:#58ACFA">Merge Intervals</span>
 
-## 문제
+## <span style="color:#58ACFA">문제</span>
 
 <!-- <img src="/assets/images/Merge Intervals.png" title="Merge Intervals" alt="Merge intervals"> -->
 
 ![이미지](/assets/images/Merge Intervals.png "Merge Intervals")
 여러 개의 interval들이 주어지고 겹치는 부분이 있다면 겹치는 interval들을 모두 포함하는 하나의 interval들을 만들어주는 문제이다. 예시를 통해서 알 수 있듯이 [1, 3], [2, 6] => [1, 6] 이런식으로 포함하도록 interval을 생성해준다. 그리고 [1, 4], [4, 5] => [1, 5]로 시작과 끝이 같아도 겹쳐진다고 본다.
 
-## 생각
+## <span style="color:#58ACFA">풀이</span>
 
 1. 일단 시작을 기준으로 오름차순 정렬
 2. 시작이 같은 경우 끝을 기준으로 오름차순으로 정렬
@@ -34,7 +34,7 @@ sidebar:
 7. 새로 만들어지는 interval의 끝부분은 첫번째 interval의 끝과 두번째 interval중 더 큰값이 된다.
 8. for문을 돌면서 계속 확인
 
-## 코드
+## <span style="color:#58ACFA">코드</span>
 
 ```python
 class Solution:
@@ -62,9 +62,9 @@ class Solution:
         return result
 ```
 
-## 마무리
+## <span style="color:#58ACFA">마무리</span>
 
-이 문제 같은 경우는 정렬만 잘하고 비교만 잘하면 풀리는 문제이다.
+이 문제 같은 경우는 정렬 잘하고 비교만 잘하면 풀리는 문제이다.
 
 {% if page.comments %}
 
