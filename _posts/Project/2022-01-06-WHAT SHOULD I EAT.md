@@ -15,3 +15,5 @@ sidebar:
 # <span style="color:#58ACFA">오늘 점심 뭐 먹을래?</span>
 
 link: <https://lecocococo.github.io/what-should-i-eat/>
+
+서버를 못돌려 아직은 사용할 수 없습니다.
