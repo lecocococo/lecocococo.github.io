@@ -18,6 +18,11 @@ link: <https://lecocococo.github.io/what-should-i-eat/>
 
 서버를 못돌려 아직은 사용할 수 없습니다.
 
+=> sk 브로드밴드의 모뎀으로 인해 포트 포워딩이 불가능한 상황 발생했습니다.
+같은 ip내에선 접속이 원활하나 외부ip에선 접속이 안되는 상황 입니다.
+
+=> ngrok 사용 시도할 예정입니다.
+
 {% if page.comments %}
 
 <div id="disqus_thread"></div>
